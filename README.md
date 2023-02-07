@@ -4,4 +4,4 @@ This tool was made for my project [GuitarHerOwO](https://github.com/PoplixYann/G
 
 You can create map pattern for a GuitarHero-like game with a specific BPM and export it as .csv file.
 
-![img1](https://github.com/PoplixYann/GuitarHerOwO_Editor_PRIVATE/blob/main/img1.png?raw=true)
+![img1](img1.png?raw=true)
